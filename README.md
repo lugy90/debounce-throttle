@@ -1,2 +1,2 @@
-# dt.js
+# debounce&throttle
 tools to debounce and throttle
